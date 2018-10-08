@@ -211,7 +211,7 @@ a:hover {
 	left: 0;
 	width: 250px;
 	height: 209px;
-	padding: 2.8em 0 0 0;
+	padding: 1.95em 0 0 0;
 	text-align: center;
 	color: #bbb;/*#3b3d4a;*/
 	background: #1c1d22;
@@ -222,8 +222,8 @@ a:hover {
 }
 
 .dummy-heading {
-	padding: 0.28em 0 0 0;
-	font-size: 0.95em;
+	padding:0  0 0 0;
+	font-size: 0.9em;
 	letter-spacing: 2px;
 	text-align:center;
 	text-transform: uppercase;
